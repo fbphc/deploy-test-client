@@ -1,7 +1,6 @@
 {
   "name": "client",
   "version": "0.1.0",
-  "engines": {"node" : "16.0.0" },
   "private": true,
   "dependencies": {
     "@ant-design/icons": "^4.7.0",
@@ -47,6 +46,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
-  
+  },
+  "engines": {"node" : "16.0.0" }
 }
