@@ -47,5 +47,10 @@
       "last 1 safari version"
     ]
   },
-  "engines": {"node" : "16.6.0" }
+  "engines": {"node" : "16.6.0" },
+  "buildpacks": [
+    {
+      "url": "mars/create-react-app"
+    }
+  ]
 }
